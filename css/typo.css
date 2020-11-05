@@ -1,0 +1,85 @@
+@import url('https://fonts.googleapis.com/css2?family=Staatliches&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200&family=Staatliches&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat+Subrayada:wght@400;700&display=swap');
+
+body{
+  background-color: white;
+  font-family: "Plaster", sans-serif;
+  font-weight: 700;
+  line-height: 200px;
+  font-size: 30px;
+  color: black
+}
+
+h1{
+  font-family: "Plaster", sans-serif;
+  font-weight: 700;
+  line-height: 130px;
+  font-size: 30px;
+  color: black
+}
+
+.lien2{
+  background-color: white;
+  font-family: "Plaster", sans-serif;
+  font-weight: 700;
+  line-height: 30px;
+  font-size: 20px;
+  color: black
+}
+
+.lien3{
+  background-color: white;
+  font-family: "Plaster", sans-serif;
+  font-weight: 700;
+  line-height: 30px;
+  font-size: 20px;
+  color: black
+}
+menu{
+  background-color: white;
+  font-family: "Plaster", sans-serif;
+  font-weight: 70;
+  line-height: 0px;
+  font-size: 30px;
+  color: black
+}
+
+h1{
+  font-family: 'Staatliches', cursive;
+
+}
+
+h2{
+  font-family: 'Staatliches', cursive;
+  font-size: 60px;
+  margin-top: -40px;
+}
+
+h3{
+  font-family: 'Staatliches', cursive;
+  font-size: 60px;
+  margin-top: -40px;
+}
+p{
+  margin-bottom: 1.15rem;
+}
+
+
+h1 {
+  font-size: 60px;
+  margin-top: -40px;
+}
+
+p1 {
+  margin-left: 150px;
+}
+p1 {
+  font-family: "Plaster", sans-serif;
+  font-weight: 800;
+  line-height: 100px;
+  font-size: 30px;
+
+  color: #FFCE00
+
+}

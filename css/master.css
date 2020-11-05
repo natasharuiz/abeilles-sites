@@ -1,0 +1,135 @@
+body{
+  background-color: white;
+}
+
+header, footer {
+  background-color: #FFCE00;
+  min-height: 15vh;
+  width:1332px;
+  height:115px;
+  margin-top: 40px
+}
+
+h1{
+  color: black;
+  margin-left: 300px;
+  margin-top: -50px;
+}
+
+h2{
+  color: black;
+  margin-left: 220px;
+  margin-top: -50px;
+}
+
+h3{
+  color: black;
+  margin-left: 220px;
+  margin-top: -50px;
+}
+.rectangle{
+	width:1332px;
+	height:115px;
+	background:#FFCE00;
+margin-top: -580px;
+
+}
+
+.rectangle2{
+  width:1332px;
+	height:115px;
+	background:#FFCE00;
+margin-top: 80px;
+}
+
+.rectangle3{
+  width:1332px;
+	height:115px;
+	background:#FFCE00;
+margin-top: 80px;
+}
+img{
+  margin-left: 600px;
+  margin-top: -500px;
+  -webkit-transition: all 0.5s ease;
+  transition: all 0.5s ease;
+  -webkit-transform: rotate(-15deg);
+  transform: rotate(-15deg);
+}
+
+@keyframes appearIn {
+  0% {
+    transform: scale(0.5);
+    opacity: 0;
+}
+
+60% {
+  transform: scale(4.5);
+  opacity: 1;
+}
+
+100% {
+  transform: scale(1);
+}
+}
+
+.animated-box{
+  border: 0px solid #EBC2EB;
+  animation-duration : 2s;
+  animation-name: appearIn;
+  animation-delay : 2s;
+  animation-iteration-count: infinite;
+  width:132px;
+	height:195px;
+}
+
+
+.rotate img {
+  -webkit-transition: all 0.5s ease;
+  transition: all 0.5s ease;
+}
+
+.rotate :hover img {
+  -webkit-transform: rotate(-15deg);
+  transform: rotate(-15deg);
+}
+
+.rectanglepage1{
+  width:1332px;
+  height:115px;
+  background:#FFCE00;
+  margin-top: -510px;
+
+}
+
+
+
+p{
+  margin-left: 100px;
+  margin-right: 100px;
+  margin-top: 90px;
+
+}
+
+.paragraphe{
+  line-height: 30px;
+  font-size: 20px;
+  color: black
+}
+
+.rectanglepage2{
+  width:1332px;
+  height:115px;
+  background:#FFCE00;
+  margin-top: 150px;
+}
+
+.titre{
+  display: flex;
+}
+
+.rectanglepage3{
+  width:1332px;
+  height:115px;
+  background:#FFCE00;
+  margin-top: 150px;
